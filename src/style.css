@@ -34,6 +34,7 @@ h1 {
   color: #878787;
   font-size: 14px;
   font-weight: 150;
+  text-transform: capitalize;
 }
 .current-weather img {
   margin-right: 10px;
