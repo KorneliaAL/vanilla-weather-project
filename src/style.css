@@ -34,6 +34,8 @@ h1 {
   color: #878787;
   font-size: 14px;
   font-weight: 150;
+}
+li:first-letter {
   text-transform: capitalize;
 }
 .current-weather img {
